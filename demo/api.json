@@ -453,6 +453,47 @@
     [
         {
             "position": 1,
+            "title": "Home | The Coffee Bean & Tea Leaf",
+            "link": "https://www.coffeebean.com/",
+            "displayed_link": "https://www.coffeebean.com",
+            "snippet": "Never run out of your favorite coffees, teas and powders again with our auto-delivery subscription. Select how often your products arrive, pause and cancel ...",
+            "about_this_result":
+            {
+                "source":
+                {
+                    "description": "The Coffee Bean & Tea Leaf is an American coffee shop chain founded in 1963. It is a subsidiary of Jollibee Foods Corporation, which has its corporate headquarters in Pasig City, Philippines. As of 2017, the chain has over 1,000 self-owned and franchised stores in the United States and 31 other countries.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/The_Coffee_Bean_%26_Tea_Leaf",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/6165916694c6c7025deef5ab/images/ed8bda76b255c4dc4634911fb134de536aae041ac4d3ec38c806b5ac043223330ee0f1a11b201598d2e5fe218962b69a.png"
+                }
+                ,
+                "keywords":
+                [
+                    "coffee"
+                ]
+                ,
+                "related_keywords":
+                [
+                    "coffees"
+                ]
+                ,
+                "languages":
+                [
+                    "English"
+                ]
+                ,
+                "regions":
+                [
+                    "the United States"
+                ]
+            }
+            ,
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:WpQxSYo2c6AJ:https://www.coffeebean.com/+&cd=14&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?q=related:https://www.coffeebean.com/+Coffee"
+        }
+        ,
+        {
+            "position": 2,
             "title": "Coffee - Wikipedia",
             "link": "https://en.wikipedia.org/wiki/Coffee",
             "displayed_link": "https://en.wikipedia.org › wiki › Coffee",
@@ -529,47 +570,6 @@
             ,
             "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:U6oJMnF-eeUJ:https://en.wikipedia.org/wiki/Coffee+&cd=4&hl=en&ct=clnk&gl=us",
             "related_pages_link": "https://www.google.com/search?q=related:https://en.wikipedia.org/wiki/Coffee+Coffee"
-        }
-        ,
-        {
-            "position": 2,
-            "title": "Home | The Coffee Bean & Tea Leaf",
-            "link": "https://www.coffeebean.com/",
-            "displayed_link": "https://www.coffeebean.com",
-            "snippet": "Never run out of your favorite coffees, teas and powders again with our auto-delivery subscription. Select how often your products arrive, pause and cancel ...",
-            "about_this_result":
-            {
-                "source":
-                {
-                    "description": "The Coffee Bean & Tea Leaf is an American coffee shop chain founded in 1963. It is a subsidiary of Jollibee Foods Corporation, which has its corporate headquarters in Pasig City, Philippines. As of 2017, the chain has over 1,000 self-owned and franchised stores in the United States and 31 other countries.",
-                    "source_info_link": "https://en.wikipedia.org/wiki/The_Coffee_Bean_%26_Tea_Leaf",
-                    "security": "secure",
-                    "icon": "https://serpapi.com/searches/6165916694c6c7025deef5ab/images/ed8bda76b255c4dc4634911fb134de536aae041ac4d3ec38c806b5ac043223330ee0f1a11b201598d2e5fe218962b69a.png"
-                }
-                ,
-                "keywords":
-                [
-                    "coffee"
-                ]
-                ,
-                "related_keywords":
-                [
-                    "coffees"
-                ]
-                ,
-                "languages":
-                [
-                    "English"
-                ]
-                ,
-                "regions":
-                [
-                    "the United States"
-                ]
-            }
-            ,
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:WpQxSYo2c6AJ:https://www.coffeebean.com/+&cd=14&hl=en&ct=clnk&gl=us",
-            "related_pages_link": "https://www.google.com/search?q=related:https://www.coffeebean.com/+Coffee"
         }
         ,
         {
